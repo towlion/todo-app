@@ -1,6 +1,6 @@
-# Towlion App Template
+# TODO App
 
-A template repository for bootstrapping new applications on the [Towlion platform](https://github.com/towlion/platform).
+A minimal TODO list application built on the [Towlion platform](https://github.com/towlion/platform).
 
 ## Getting Started
 
